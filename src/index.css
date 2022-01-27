@@ -28,7 +28,7 @@ padding-left: 3rem;
   padding: 1rem 0 1rem 0;
 }
 .collage {
-  max-width: 750px;
+  max-width: 790px;
   margin: auto;
 }
 .hero-header, .hero-description {
@@ -43,9 +43,9 @@ padding-left: 3rem;
 }
 .hero-description {
   font-size: 1.2rem;
-  width: 25rem;
+  width: 35rem;
   margin: auto;
-  padding: 0 27rem .5rem 3rem;
+  padding: 0 17rem .5rem 3rem;
 }
 /* end of Hero component */
 
